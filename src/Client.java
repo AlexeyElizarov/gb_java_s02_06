@@ -7,6 +7,8 @@ import java.util.Date;
 import java.util.Scanner;
 
 public class Client {
+    // check
+
     private Socket socket;
     private DataInputStream in;
     private DataOutputStream out;
